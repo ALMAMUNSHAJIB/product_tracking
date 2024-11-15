@@ -46,4 +46,4 @@ If your project uses migrations to manage database schema changes, you can run t
 
 1. To run migrations: npx knex migrate:latest
 
-http://localhost:3000/api (swagger)
+http://localhost:3000/api (swagger
